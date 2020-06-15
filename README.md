@@ -1,4 +1,6 @@
-**PROJECT:** implementation of an embedded system capable of measuring the accelerations resulting from a person's leg, using an accelerometer.
+**PROJECT:** 
+
+Implementation of an embedded system capable of measuring the accelerations resulting from a person's leg, using an accelerometer.
 
 
 **STEPS:** 
@@ -17,4 +19,5 @@
 **RESULTS:** 
 
 [video_project_real_time.zip](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/files/4782737/video_project_real_time.zip) - short video showing the operation of the interface, in real time, in the acquisition and respective display of the acquired signals from the accelerometer.
+
 ![Sem Título](https://user-images.githubusercontent.com/66881028/84701968-cf17af80-af4d-11ea-9e2f-c6169008d918.png)
