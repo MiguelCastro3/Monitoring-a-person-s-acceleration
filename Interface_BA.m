@@ -24,7 +24,7 @@ function varargout = Interface_BA(varargin)
 
 % Last Modified by GUIDE v2.5 28-Dec-2017 18:14:34
 
-% Begin initialization code - DO NOT EDIT
+% Begin initialization code - DO NOT EDIT 
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
                    'gui_Singleton',  gui_Singleton, ...
