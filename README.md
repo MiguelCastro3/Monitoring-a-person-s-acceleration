@@ -14,8 +14,8 @@ Implementation of an embedded system capable of measuring the accelerations resu
 
 **FILES:** 
 
-* [Interface_BA.m](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/Interface_BA.m) - code for the acquisition of the accelerometer signals (3 channels), processing and conversion of the signals and sending to the computer via the serial port.
 * [main.asm](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/main.asm) - code referring to the processing of signals received from the microntroller and repetitive display through a previously created interface.
+* [Interface_BA.m](https://github.com/MiguelCastro3/Monitoring-a-person-s-acceleration/blob/master/Interface_BA.m) - code for the acquisition of the accelerometer signals (3 channels), processing and conversion of the signals and sending to the computer via the serial port.
 
 
 **RESULTS:** 
