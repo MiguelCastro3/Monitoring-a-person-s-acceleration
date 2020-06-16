@@ -9,6 +9,8 @@ Implementation of an embedded system capable of measuring the accelerations resu
 * Programming the 324A microcontroller for signal processing
 * Development of an interface for viewing acquired signals
 
+**SCHEMATIC CIRCUIT:**
+![ATMEGA324A ligações](https://user-images.githubusercontent.com/66881028/84780506-90c9d100-afdd-11ea-9515-69c7dad7ffc9.PNG)
 
 **FILES:** 
 
