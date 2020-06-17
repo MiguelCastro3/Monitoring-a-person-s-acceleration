@@ -1,7 +1,8 @@
+# Monitoring a person's acceleration
+
 **PROJECT:** 
 
 Implementation of an embedded system capable of measuring the accelerations resulting from a person's leg, using an accelerometer.
-
 
 **STEPS:** 
 
